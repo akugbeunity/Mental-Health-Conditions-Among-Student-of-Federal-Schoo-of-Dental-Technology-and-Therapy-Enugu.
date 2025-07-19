@@ -1,0 +1,455 @@
+S/no,Choose your gender,Age,course of study,current year of Study,Marital status,Mental_Health_Condition,active participation in schoool,Sleep_Quality,hours of study in a week,working and schooling,problems with lecuturer/friends/roomates,Cgpa,carryover
+1,Female,18,dental technology,year 1,single,Depression,3,Poor,40,no,no,,no
+2,Male,21,dental technology,year 2,single,None,0,Good,22,yes,no,3.00 - 3.49,no
+3,Male,19,biotechnology,Year 1,single,Anxiety,2,Average,14,no,no,3.50 - 4.00,no
+4,Female,22,dental technology,year 3,married,Burnout,1,Poor,29,no,no,3.00 - 3.49,no
+5,Male,23,dental therapy,year 4,single,None,1,Average,29,no,no,2.00 - 2.49,no
+6,Male,19,dental technology,Year 2,single,None,2,Average,12,yes,no,3.50 - 4.00,no
+7,Female,23,dental therapy,year 2,married,Depression,0,Poor,25,no,no,3.00 - 3.49,no
+8,Female,18,dental nursing,year 1,single,Depression,3,Poor,35,yes,no,3.00 - 3.49,no
+9,Female,19,bio technology,Year 2,single,None,1,Poor,27,no,no,3.00 - 3.49,no
+10,Male,18,dental technology,year 1,single,Depression,2,Poor,23,ys,no,0 - 1.99,no
+11,Female,20,bio technology,year 1,single,None,3,Average,15,no,no,2.00 - 2.49,on
+12,Female,24,Nursing ,Year 3,married,None,0,Poor,32,yes,no,2.00 - 2.49,yes
+13,Female,18,therapy,year 1,single,Depression,0,Good,7,no,no,2.00 - 2.49,no
+14,Male,19,dental therapy,year 1,single,Anxiety,1,Poor,25,yes,no,2.00 - 2.49,no
+15,Female,18,therapy,Year 2,single,Anxiety,2,Average,7,no,no,2.00 - 2.49,no
+16,Male,24,technology,Year 3,single,Anxiety,1,Average,27,yes,no,2.00 - 2.49,yes
+17,Female,24,technology,year 3,single,None,1,Good,16,no,,2.00 - 2.49,no
+18,Female,24,Technology,year 4,married,Burnout,1,Good,25,yes,,2.00 - 2.49,no
+19,Female,20,Nursing ,Year 2,single,Anxiety,0,Good,18,no,,0 - 1.99,no
+20,Female,18,nursing,year 2,married,Anxiety,2,Average,14,yes,,0 - 1.99,yed
+21,Female,19,dental technology,year 1,single,Burnout,3,Poor,40,no,,0 - 1.99,yed
+22,Female,18,dental therapy,Year 2,single,None,0,Poor,28,no,no,0 - 1.99,no
+23,Female,24,dental technology,year 1,single,None,0,Average,34,no,no,0 - 1.99,yes
+24,Female,24,nursing,year 1,single,None,0,Poor,11,yes,no,0 - 1.99,no
+25,Female,23,dental therapy,Year 3,married,Burnout,0,Average,20,yes,no,0 - 1.99,yes
+26,Female,18,bio technology,year 1,single,Burnout,0,average,40,no,yes,0 - 1.99,no
+27,Female,19,bio technology,year 1,single,None,0,Good,11,no,no,0 - 1.99,no
+28,Male,18,dental technology,Year 2,single,None,0,Average,29,no,no,0 - 1.99,no
+29,Female,24,technology,Year 3,married,anxiety,0,Poor,19,no,no,0 - 1.99,no
+30,Female,24,therapy ,year 4,single,Anxiety,0,Average,25,on,no,2.50 - 2.99,no
+31,Female,23,nursing ,Year 2,single,Anxiety,1,Average,30,on,no,3.50 - 4.00,no
+32,Male,18,dental technology,year 2,single,Depression,1,Average,13,no,no,3.50 - 4.00,
+33,Male,19,therapy,year 1,single,None,1,Good,21,no,no,3.50 - 4.00,
+34,Male,18,therapy,Year 2,single,None,0,Average,14,no,no,3.00 - 3.49,
+35,Female,19,technology,year 1,single,None,3,Average,27,yes,yes,3.00 - 3.49,
+36,Female,18,nursing,year 1,single,None,2,Poor,35,no,no,3.50 - 4.00,
+37,Female,18,bio technology,Year 3,single,None,1,Poor,23,no,no,3.50 - 4.00,
+38,Female,19,bio technology,year 1,single,None,0,Good,12,yes,no,3.00 - 3.49,
+39,Female,18,technology,year 1,single,Anxiety,1,Average,18,no,no,3.00 - 3.49,
+40,Female,24,nursing,Year 2,married,None,1,Average,17,on,no,3.50 - 4.00,
+41,Female,24,therapy,Year 3,married,Burnout,1,Poor,10,yes,no,3.50 - 4.00,
+42,Female,22,nursing,year 4,single,None,1,Good,27,no,no,3.00 - 3.49,
+43,Female,20,therapy,year 2,single,None,1,Poor,18,yes,no,3.00 - 3.49,
+44,Male,,nursing,year 1,single,Depression,1,Average,20,no,yes,3.50 - 4.00,
+45,Male,23,therapy,year 2,single,Anxiety,1,Good,39,yes,no,3.00 - 3.49,
+46,Male,18,bio technology,year 1,single,Burnout,1,Poor,10,no,no,3.50 - 4.00,
+47,Female,19,thech,year 1,single,Burnout,2,Good,21,yes,no,3.50 - 4.00,
+48,Female,18,technolgy,year 4,single,None,2,Good,35,no,no,3.00 - 3.49,
+49,Male,24,therapy,year 2,single,None,2,Poor,26,yes,no,3.00 - 3.49,
+50,Female,24,nursing,year 3,single,Burnout,2,Average,11,nu,no,3.50 - 4.00,
+51,Female,23,nursing,year 1,married,Anxiety,2,Poor,14,yes,no,3.50 - 4.00,
+52,Female,18,bio technology,year 2,single,None,0,Good,19,no,no,3.00 - 3.49,
+53,Female,19,bio technology,year 3,single,None,0,Good,17,yes,no,3.00 - 3.49,
+54,Female,20,nursing,year 3,married,Depression,0,Average,3,no,no,3.50 - 4.00,
+55,Female,19,tech,year 1,single,Burnout,0,Poor,16,yes,no,3.00 - 3.49,
+56,Male,21,nursing,year 1,single,Anxiety,1,Average,14,no,no,2.00 - 2.49,
+57,Male,23,therapy,Year 3,single,Depression,1,Good,30,yes,no,0 - 1.99,
+58,Female,20,therapy,Year 3,single,None,1,Average,19,no,no,2.00 - 2.49,
+59,Female,18,dental technolgy,year 1,single,None,1,Average,30,yes,no,0 - 1.99,no
+60,Female,23,nursing ,year 1,single,None,0,Average,30,no,no,2.00 - 2.49,no
+61,Female,18,bipo tech ,Year 3,single,None,0,Average,30,no,yes,0 - 1.99,no
+62,Female,19,  bio tech ,year 1,single,None,0,Average,18,no,yes,2.50 - 2.99,no
+63,Female,18,nursing,Year 1,single,None,0,Average,24,no,yes,3.00 - 3.49,no
+64,Female,24,tech,year 1,single,None,0,Average,19,no,no,0 - 1.99,yed
+65,Female,24,therapy,year 1,single,Burnout,0,Average,26,no,no,2.00 - 2.49,no
+66,Female,23,therapy,year 1,single,None,0,Good,14,non,no,0 - 1.99,yes
+67,Female,18,bio technology,Year 3,single,Burnout,3,Good,34,on,no,2.50 - 2.99,
+68,Male,19,bio technology,Year 2,single,None,3,Average,20,yes,no,3.00 - 3.49,
+69,Female,18,nursing,year 1,single,Anxiety,3,Average,27,no,no,0 - 1.99,
+70,Female,24,nursing,year 4,single,None,3,Good,24,yes,no,2.00 - 2.49,
+71,Female,24,threrapy,year 1,single,Anxiety,3,Average,37,no,no,0 - 1.99,
+72,Female,18,therapy,Year 3,single,Depression,3,Average,14,yes,no,2.50 - 2.99,
+73,Female,19,dental tech,Year 3,married,Burnout,3,Good,31,no,no,3.00 - 3.49,
+74,Male,18,nursing,year 1,single,Anxiety,3,Poor,19,yes,no,,no
+75,Male,24,nursing ,Year 3,single,Burnout,3,Poor,32,no,no,,no
+76,Female,24,nursingnursing,year 1,single,Anxiety,3,Good,24,yes,no,,no
+77,Female,23,technology,year 1,single,Depression,2,Good,26,no,no,,no
+78,Female,18,thechnology,Year 2,single,Anxiety,2,Average,33,yes,no,,no
+79,Female,19,therapy,Year 3,single,Burnout,2,Average,12,no,no,,no
+80,Female,18,nursing ,year 4,single,Burnout,2,Average,23,yes,no,,no
+81,Female,24,therapy,Year 2,married,Burnout,2,Poor,37,no,no,,no
+82,Female,24,thech,year 2,single,Depression,1,Poor,23,no,no,,no
+83,Female,19,tech,year 1,single,Depression,1,Good,6,no,no,,no
+84,Female,19,tech,Year 2,single,Burnout,1,Poor,38,no,no,,no
+85,Male,23,tech,year 1,single,None,1,Good,12,no,no,,on
+86,Female,18,nursing,year 1,single,Burnout,,Poor,19,no,no,,no
+87,Female,19,nursingtherapy,Year 3,single,Anxiety,11,Poor,40,non,no,,no
+88,Female,18,technology,year 1,single,None,,Poor,15,on,no,,no
+89,Male,24,nusing,year 1,single,Anxiety,1,Poor,16,no,no,,no
+90,Male,24,nursing,Year 2,single,Depression,1,Poor,16,non,no,,no
+91,Female,23,therapy,Year 3,single,Depression,1,Average,6,yes yes no,no,,no
+92,Male,18,bio technology,Year 2,single,Burnout,0,Good,18,no,no,2.00 - 2.49,no
+93,Female,19,tech,year 2,married,Burnout,0,Poor,18,no,no,0 - 1.99,no
+94,Female,18,tech,year 1,single,Depression,0,Average,15,yes yes no,no,2.50 - 2.99,no
+95,Female,24,tech,Year 3,single,None,0,Average,1,no,no,3.00 - 3.49,no
+96,Female,18,nursing,year 1,single,Burnout,0,Good,30,no,no,2.00 - 2.49,no
+97,Female,21,nursing,year 1,single,Burnout,0,Poor,22,no,no,0 - 1.99,
+98,Male,18,bio technology,Year 2,single,Burnout,0,Average,27,yes no,no,2.50 - 2.99,
+99,Female,19,bio techtech,Year 3,married,Burnout,0,Good,12,no,no,3.00 - 3.49,
+100,Female,23,nursing,year 4,single,None,0,Good,10,yes,no,,
+101,Male,20,therapy,Year 2,single,Depression,0,Poor,26,mo,no,,
+102,Male,16,therapy,yesr2,single,Burnout,0,Poor,16,yes,no,2.00 - 2.49,
+103,Male,16,nursing ,year 1,single,Burnout,0,Good,13,no,no,0 - 1.99,
+104,Male,18,tech,year 2,single,Depression,0,Good,28,yes,no,2.50 - 2.99,
+105,Female,27,therapy,year 3,married,Depression,2,Average,14,no,no,3.00 - 3.49,
+106,Female,27,therapy,year 3,married,Burnout,,Good,8,yes,no,2.00 - 2.49,
+107,Female,25,tech,heah 4,single,Anxiety,2,Good,29,no,no,0 - 1.99,
+108,Male,34,tech,year4,single,Anxiety,2,Poor,9,yes,no,2.50 - 2.99,
+109,Female,35,bio tech,hea  4,single,Burnout,2,Poor,13,yes,no,3.00 - 3.49,
+110,Female,17,nursing ,geas 2,single,Burnout,22,Good,8,yes,no,,
+111,Male,18,therapy,year 1,single,Anxiety,0,Average,33,no,no,,
+112,Male,20,therapy,year 1,single,Burnout,0,Good,11,,no,2.00 - 2.49,no
+113,Male,20,tech,year 1,single,Depression,0,Poor,19,,no,0 - 1.99,yes
+114,Female,31,therapy,year 3,married,Burnout,0,Poor,30,,no,2.50 - 2.99,no
+115,Male,25,nursing,year2,single,Anxiety,0,Poor,26,,no,3.00 - 3.49,no
+116,Female,28,tech,heah 4,married,Anxiety/burnout,0,Good,15,,no,2.00 - 2.49,no
+117,Male,20,nursing,year 3,single,None,1,Good,0,,no,0 - 1.99,no
+118,Female,21,tech,heah 3,single,Burnout,1,Good,16,yes,yes,2.50 - 2.99,yes
+119,Male,24,therapy,year 2,single,Burnout,1,Average,15,no,no,3.00 - 3.49,no
+120,Male,26,therapy,year 1,single,None,,Average,11,yes,no,2.00 - 2.49,no
+121,Male,18,nursing,year 2,single,Anxiety,1,Average,17,yes,no,0 - 1.99,yes
+122,Male,18,therapy,year1,single,Depression,1,Good,26,no,no,2.50 - 2.99,no
+123,Male,19,bio tech ,year 2,single,Anxiety,10,Good,29,yes,no,3.00 - 3.49,no
+124,Male,20,therapy,year 1,single,None,0,Average,10,no,no,,no
+125,Male,20,thech,year 3,single,Depression,0,Average,40,no,no,,on
+126,Female,20,nursing,geas 4,single,Burnout,0,Average,32,,no,0 - 1.99,yes
+127,Female,20,bio,,,Burnout,0,Good,18,,no,2.50 - 2.99,no
+128,Male,16,thech,year 1,single,None,0,Average,28,,no,0 - 1.99,yes
+129,Female,16,bio,,,Burnout,0,Poor,40,,no,2.50 - 2.99,yes
+130,Female,16,tech,heah 4,single,None,0,Average,14,,no,0 - 1.99,no
+131,Female,15,nursing,geas 4,single,None,0,Good,13,,no,2.50 - 2.99,no
+132,Male,25,te h,year4,single,Burnout,0,Average,0,,no,,yes
+133,Female,27,bio tech,hea  3,married,None,0,Good,17,no,no,,no
+134,Female,26,nursing,geas 4,married,None,0,Good,21,no,no,2.50 - 2.99,yes
+135,Male,22,therapy,year 3,single,None,0,Poor,23,np,no,3.00 - 3.49,no
+136,Female,22,nursing tech ,heas 3,single,Burnout,1,Good,20,yes,no,2.50 - 2.99,no
+137,Male,21,nursing,year 2,single,Burnout,1,Good,10,no,no,3.00 - 3.49,no
+138,Female,20,tech,heah 3,single,None,1,Poor,19,,,,no
+139,Male,24,nursing,year 4,single,None,1,Poor,28,,,2.50 - 2.99,no
+140,Female,25,tech ,heah 2,married,Anxiety,1,Average,10,no,,3.00 - 3.49,on
+141,Male,34,bio ,year2,married,Anxiety,2,Poor,25,yes,,2.50 - 2.99,no
+142,Female,27, nursing ,geas 4,married,Burnout,2,Poor,11,,,3.00 - 3.49,no
+143,Male,34, bursing,year 4,married,None,,Poor,29,,yes,2.50 - 2.99,no
+144,Female,33,tech,heah 4,married,Burnout,202,Good,11,no,,3.00 - 3.49,no
+145,Male,32,nursing,year2,single,Anxiety,2,Average,9,yes,yes,2.50 - 2.99,no
+146,Female,28,tech,heah 4,married,Depression,0,Poor,7,,,3.00 - 3.49,no
+147,Female,29,bio tech,hea  4,married,Depression,2,Average,13,,,,
+148,Female,28,mursing ,geas 4,married,Anxiety,0,Average,21,,yes,,
+149,Female,28,thech,heac 3,single,Depression,2,Good,10,no,yes,,
+150,Female,28,therapy,year 4,married,Burnout,0,Good,15,yes,,,
+151,Female,28,therapy','ear 3,married,Anxiety,20,Average,16,,,,
+152,Female,21,thech,heac 3,,Burnout,1,Poor,9,,yes,,
+153,Male,16,nursing,year1,single,Burnout,0,Poor,40,,,,
+154,Male,17,tech,yearv 1,single,Depression,1,Poor,10,,,,
+155,Male,17,nursing,year 1,single,None,0,Average,11,yes,,,
+156,Male,17,bio,year1,single,None,1,Good,15,yes,yes,,
+157,Male,30,nursing,year 4,single,None,0,Average,32,yes,,,no
+158,Male,,tech,year 1,single,Depression,3,Good,29,no,,,no
+159,Male,,nursing,year 3,single,Depression,2,Average,12,no,,,no
+160,Male,,therapy,year 2,single,Burnout,2,Good,26,no,,,no
+161,Male,,tech,year 3,single,Anxiety,0,Average,27,  ,yes,,no
+162,Male,,bio tech,year1,single,None,2,Average,19,,,,no
+163,Male,,nursing,year 2,single,None,0,Poor,18,,,,no
+164,Male,30,tech,year 4,married,None,1,Average,17,yes,,,no
+165,Male,21,nursing,year4,single,None,1,Good,17,yes,,,no
+166,Male,23,nursing,year3,single,None,1,Poor,12,no,,,no
+167,Male,23,tech,year3,single,None,1,Average,39,,yes,,no
+168,Male,30,therapy,year 4,single,None,3,Poor,3,,,,no
+169,Male,20,therapy,year2,single,None,3,Average,37,,,,no
+170,Female,16,therapy,year 4,single,None,3,Poor,28,,,0 - 1.99,no
+171,Female,21,nursing,geas 4,single,None,3,Poor,26,,,0 - 1.99,yes
+172,Female,21,tech,heah 3,single,None,0,Good,25,,,2.50 - 2.99,yes
+173,Female,23,bio tech,hea  3,,None,3,Good,13,,,3.50 - 4.00,no
+174,Male,24,nursing,yearc 3,married,None,3,Good,23,,yes,3.50 - 4.00,no
+175,Male,25,thech,year 3,single,None,3,Good,0,,,0 - 1.99,yes
+176,Female,23,bio tech ,hea  3,single,None,3,Average,19,,,0 - 1.99,yes
+177,Male,23,bio tech,year 3,single,None,3,Good,9,yes,,2.50 - 2.99,no
+178,Male,26,nursing,year3,single,None,3,Good,10,no,,3.50 - 4.00,no
+179,Female,24,bio tech,hea  3,single,None,3,Good,16,yes,,3.50 - 4.00,no
+180,Male,27,mursing ,year3,single,None,3,Good,26,no,,0 - 1.99,no
+181,Male,27,bipo tech ,year 4,single,None,3,Poor,20,yes,,0 - 1.99,no
+182,Female,28,therapy,year 4,married,None,3,Good,26,np,hes,2.50 - 2.99,yes
+183,Female,20,tech,heah 1,single,None,30,Average,12,,,3.50 - 4.00,no
+184,Female,20,nursing,geas 4,single,None,0,Good,26,no,,3.50 - 4.00,no
+185,Female,21,nursing,geas 3,married,None,0,Good,17,no,,0 - 1.99,no
+186,Female,24,tech,heah 2,single,None,0,Average,36,no,,0 - 1.99,yes
+187,Female,30,therapy,year 4,married,None,0,Average,25,yes,,2.50 - 2.99,no
+188,Female,34,thech,heac 3,married,None,0,Good,24,yes,,3.50 - 4.00,no
+189,Female,20,nusing,geai 3,single,None,0,Average,7,yes,yes,3.50 - 4.00,no
+190,Female,21,therapy,rapyearapy 2,single,None,0,Poor,8,yes,,,no
+191,Female,23,therapy,rapyearapy 2,single,None,0,Average,13,no,,,no
+192,Female,21,tharay,rayearay 1,single,None,0,Poor,13,no,,,yes
+193,Female,23,tharpy,rpyearpy 3,single,None,0,Average,28,no,,0 - 1.99,no
+194,Female,32,thech,heac 4,married,None,0,Average,32,no,,0 - 1.99,yes
+195,Female,26,nursing,geas 4,married,None,1,Good,23,no,,2.50 - 2.99,no
+196,Male,34,bio tech,yrae 4,single,None,1,Poor,19,no,yes,3.50 - 4.00,no
+197,Male,23,bio tech,year3,single,None,1,Good,16,yes,yes,3.50 - 4.00,no
+198,Female,21,nursing,geas 4,single,None,1,Average,14,yes,yes,,yes
+199,Male,27,tech,year4,single,None,1,Poor,15,no,,,yes
+200,Female,28,nursing,geas 3,married,None,1,Average,8,,,,yes
+201,Male,26,tech,year4,single,None,1,Average,21,,,,no
+202,Male,25,nursing,year 3,single,None,1,Good,30,,,,on
+203,Female,25,thech,heac 3,married,None,1,Poor,23,,,,no
+204,Male,23,nursing,year 3,single,None,1,Good,17,no,,,yes
+205,Male,23,tech,year 3,single,None,1,Good,25,no,no,,no
+206,Male,21,tech,y,single,None,1,Poor,25,non,nio,,no
+207,Female,21,nursing,geas 4,single,None,1,Good,6,no,no,,no
+208,Female,20,tech,heah 4,single,None,1,Good,24,,mo,,yes
+209,Male,19,bip tech,yeae 2,single,None,,Average,32,,yes,,yes
+210,Female,19,thch,heah 3,single,None,1,Average,7,yes,yes,0 - 1.99,no
+211,Male,18,therapy,uyear 1,single,None,1,Poor,7,no,yes,2.50 - 2.99,no
+212,Female,18,therapt,tear 4,single,None,1,Poor,24,no,yes,3.00 - 3.49,yes
+213,Female,17,tech,heah 3,single,None,1,Good,12,non,,2.00 - 2.49,no
+214,Male,17,tech,year 1,single,None,11,Good,,yes,,0 - 1.99,on
+215,Female,15,nursin,neas 3,single,None,1,Average,,yes,,2.50 - 2.99,no
+216,Female,15,tech,heah 3,single,None,1,Good,,no,,3.00 - 3.49,no
+217,Female,20,tech,heah 4,single,None,1,Poor,,non,,2.00 - 2.49,np
+218,Female,24,tech,heah 2,married,None,1,Average,,,,0 - 1.99,yes
+219,Male,25,nursin,year 1,single,None,1,Average,,yes,no,2.50 - 2.99,yes
+220,Male,26,tec,year 1,single,None,11,Good,28,,npo,3.00 - 3.49,no
+221,Male,26,,year2,single,None,1,Good,13,,npn,2.00 - 2.49,np
+222,Female,26,thech,heac 3,married,None,1,Average,27,,yes,0 - 1.99,yes
+223,Female,26,nursing,geas 3,married,Anxiety,11,Good,36,,no,2.50 - 2.99,no
+224,Female,27,tech,heah 4,married,Anxiety,,Average,38,,yes,3.00 - 3.49,np
+225,Female,27,nursing,geas 4,single,Anxiety,1,Average,33,,no,2.00 - 2.49,yes
+226,Male,28,therapy,year3,single,None,1,Good,20,yes,yes,,no
+227,Male,27,bio tech,year2,single,None,11,Average,25,nio,no,,np
+228,Male,28,biuo tech,year ,single,Depression,1,Poor,30,no,yes,,np
+229,Male,23,nursing,yeae 2,single,Burnout,1,Good,13,no,no\yes,,nyes
+230,Male,23,nursing,uyrar 3,single,Burnout,1,Good,40,non,no,,no
+231,Female,23,nuursing tech,rsing techearsing tech 1,single,Burnout,1,Average,24,non,yes,,np
+232,Female,24,nursing,singeasing 2,married,Burnout,1,Poor,33,non,no,,nyes
+233,Female,20,tech,heah 1,single,Burnout,11,Poor,26,no,ues,,no
+234,Female,20,therapy,rapyearapy 2,single,None,1,Average,25,no,no,,no
+235,Female,21,theraoy,year 2,single,Burnout,1,Poor,20,non,yes,,yes
+236,Male,24,therapy,yeae 2,single,Burnout,11,Average,12,non,no,,yes
+237,Male,21,therapy,year 2,single,Depression,3,Average,32,yes yes no,yyes,,yes
+238,Male,21,therapy,year1,single,Depression,1,Average,11,,,,yes
+239,Female,20,nursing,geas 2,single,Depression,0,Good,12,,no,,ues
+240,Female,29,nursing,geas 2,married,None,0,Poor,5,yes,bob,,no
+241,Male,29,tech,yeaer4,single,Depression,0,Poor,38,mno',non,,yes
+242,Male,28,bio tch,yeae 2,single,Burnout,1,Poor,38,,no,,no
+243,Male,28,bio tech,,single,Depression,0,Good,12,no,,,yes
+244,Female,28,nursing,geas 3,married,Burnout,1,Poor,22,yes,,,no
+245,Female,27,tech,heah 2,married,Anxiety,3,Poor,9,no,,,no
+246,Female,27,bio tech,hea  2,married,Anxiety,3,Good,20,n,,,no
+247,Female,26,tech,heah 2,single,Anxiety,3,Average,20,o,,,no
+248,Female,27,tecn ,nean 2,single,None,30,Poor,30,no,,,non
+249,Male,26,therapy,year3,single,Depression,0,Average,24,yes,,,no
+250,Male,25,therapy,yeae 3,single,None,0,Poor,40,no,yes,,yes
+251,Male,25,nurding,yrear4,single,None,0,Good,,no,,,no
+252,,24,bio tech,,,None,2,Good,,nion,,0 - 1.99,yes
+253,Male,23,nursing,year4,single,None,2,Average,,no,yes,2.50 - 2.99,no
+254,g,,tech,year 4,single,None,2,Average,,non,,3.00 - 3.49,no
+255,,,nursing,,,None,21,Good,,no,,2.00 - 2.49,on
+256,Female,,nursing,geas 1,single,None,1,Average,,non,,0 - 1.99,yed
+257,Female,,therapy,year 4,single,None,0,Average,,no,yes,2.50 - 2.99,no
+258,Female,,therapy,year 4,m,None,0,Poor,,non,no,3.00 - 3.49,on
+259,Female,,therapy therapy nusting,gear 3,married,None,1,Average,,non,yes,2.00 - 2.49,on
+260,Female,23,rhech therapy,yeac 3,,None,0,Average,,npon,yes,,on
+261,Female,34,nursing ,geas 4,,None,1,Poor,,no,yes,0 - 1.99,yeds
+262,Male,23,bio terch,year3,single,None,0,Good,23,no,yes,2.50 - 2.99,no
+263,Male,24,bio tech ,year 2,single,None,1,Average,15,no,,3.00 - 3.49,no
+264,Male,25,tech,year 3,single,None,0,Poor,14,non,,2.00 - 2.49,no
+265,Male,26,tech nutsing,year3,single,None,2,Average,29,nnon,,2.00 - 2.49,np
+266,mf,,boo tech ,year3,single,None,2,Good,1,npon,,2.00 - 2.49,np
+267,Female,,nursing,geas 2,,None,0,Average,3,npon,,2.00 - 2.49,np
+268,Female,26,bio tech,hea  4,single,None,2,Average,25,non,,2.00 - 2.49,np
+269,Female,27,nursing,singeasing 6,m,None,2,Poor,23,non,,2.00 - 2.49,on
+270,Female,27,therapy,rapyearapy 3,m,None,0,Average,33,no,,2.00 - 2.49,n
+271,fm,21,therapy,,single,None,20,Good,22,yes ,,2.00 - 2.49,np
+272,m,23,nursing,year3,single,None,2,Poor,24,,,2.00 - 2.49,pn
+273,m,21,tech,year1,single,None,0,Poor,14,,,2.00 - 2.49,pn
+274,m,20,nursing,year1,single,None,20,Good,21,no,,0 - 1.99,yes
+275,mm,23,tech,yeaer1,single,None,2,Poor,35,yes,,2.50 - 2.99,yes
+276,m,20,bio tech tech,year1,single,None,1,Good,0,yes,,0 - 1.99,yes
+277,m,21,nursing,year2,single,None,1,Average,21,yes,,2.50 - 2.99,no
+278,mm,24,thech,year4,single,None,1,Poor,40,yes,,0 - 1.99,np
+279,Female,25,nursing,geas 3,m,None,3,Poor,18,yes,,2.50 - 2.99,np
+280,Male,20,tecg,year3,single,None,3,Good,40,no,,0 - 1.99,np
+281,Male,23,nursing,year 4,single,None,2,Average,8,yes,,2.50 - 2.99,yws
+282,,20,ttherapy,,,None,2,Average,18,no,yes,,no
+283,,20,bio tech,,,None,2,Good,16,tes,yes,,np
+284,,,biotech nursing tech ,,,None,1,Average,0,tes,yes,,np
+285,,,tech nursing,,,None,1,Poor,8,no,yes,,non
+286,f,21,therapy,,single,None,0,Good,19,,,,yes
+287,f,21,therapy therapy nursing,,m,None,0,Good,25,,,,yes
+288,f,23,bio tech nursing ,,single,None,0,Good,28,yes,yes,,yes
+289,f,34,thech,,single,None,0,Poor,19,no,yes,,no
+290,f,33,nursing,,m,None,0,Poor,22,no,no,3.00 - 3.49,
+291,,35,bio tech,,,None,0,Average,24,no,yes,3.50 - 4.00,
+292,,23,ursing,,,None,0,Average,25,no,no,3.00 - 3.49,
+293,Male,30,tech,year2,single,None,2,Poor,14,,yes,3.50 - 4.00,
+294,ama,21,nurding,,,None,2,Average,14,,no,3.00 - 3.49,
+295,,23,bio tech,,,None,2,Average,16,yes ,yes,3.50 - 4.00,
+296,ama,20,nursing therapt,,,None,2,Good,26,yes,yes,3.00 - 3.49,
+297,Male,26,therap y ,year1,single,None,2,Poor,16,yes,yes,3.50 - 4.00,
+298,Male,27,nursing,yrae4,single,None,2,Average,24,yes,yes,3.00 - 3.49,
+299,Male,26,bio ttech,year3,single,None,2,Good,4,yes,yres,3.50 - 4.00,
+300,ama,23,bio tech,,,None,2,Poor,15,noo,yes,3.00 - 3.49,
+301,Female,25,therpay tech tech,hear 4,single,None,22,Average,24,,yes,3.50 - 4.00,
+302,Female,27,tech,heah 4,single,None,2,Poor,23,,yes,3.00 - 3.49,
+303,Male,23,rtech,year1,single,None,2,Good,21,no,yes,3.50 - 4.00,
+304,Male,,tech,year2,single,None,22,Average,32,no,yes,,
+305,Female,,tech,heah 2,single,None,0,Average,9,yees,yes,,
+306,Male,,tech,yeae2,single,None,,Good,21,no,yes,,
+307,Female,,tech,heah 2,single,None,,Average,28,uyes,yes,,
+308,Male,23,tech,year2,single,None,1,Average,39,no,yues,,
+309,Female,24,tech,heah 3,single,None,1,Good,34,no,no,,
+310,Male,25,tecch,year3,single,None,1,Poor,17,npon,no,,
+311,Female,26,tech,heah 3,m,None,1,Good,30,nyes,no,,
+312,Male,25,tech,year3,single,None,12,Good,16,no,non,,
+313,Female,27,tech,heah 1,m,None,1,Good,6,non,non,,
+314,Male,26,tech,year3,single,None,2,Good,7,non,non,,
+315,Male,25,trch ,year1,single,None,13,Poor,30,,non,,
+316,Male,21,tech,yeae 3,single,None,2,Poor,10,,on,,
+317,Female,16,therpy nuring tech,hear 3,single,None,1,Good,14,yes,no,,
+318,Female,17,tech,heah 4,single,None,3,Poor,12,yes,npon,,
+319,Female,14,bio tecj,jea  3,single,None,21,Average,24,no,,,
+320,Female,17,bio tech,hea  4,single,None,3,Good,18,yes,no,,
+321,Male,16,biotecj,year1,single,None,21,Poor,14,no,non,,
+322,Female,18,biot tech,heat 4,single,None,3,Good,30,yes,npn,,
+323,Male,18,therapy,year1,single,None,322,Poor,6,no,yes ,,
+324,Male,19,therpy nuring tech,year2,single,None,0,Poor,6,yes,,,
+325,,20,therapy,,,None,0,Good,0,no\,,,
+326,,,therapy,,,None,0,Poor,7,,yes,,
+327,,,therapy,,,None,0,Poor,22,yes,,,
+328,,24,therapy,,,None,0,Average,16,no,yes,,no
+329,malw,30,therapy,year4,no,None,1,Poor,6,yes,,,no
+330,ma,21,teearpy,year3,single,None,1,Average,22,nio,,,no
+331,Female,33,therapy,year 3,single,None,10,Good,11,yes,yyes,,no
+332,Female,38,threrapy,yeae 4,single,None,0,Average,40,no,,,no
+333,ma,37,therapy,year4,single,None,0,Good,40,ryss,,,no
+334,ma,25,tjherapy,year4,m,Anxiety,0,Poor,10,no,yes,,no
+335,fea,25,thjetay,yfefe 4,single,Burnout,0,Good,23,yes,yyes,,no
+336,me,25,nursing ,,,Anxiety,1,Poor,25,no,yes,,no
+337,ma,25,nnursing,year4,single,Burnout,1,Poor,16,n,yes,,npo
+338,Female,25,nursing,geas 2,m,None,1,Poor,5,n,yes,,npo
+339,ma,25,nursing ,year4,single,Depression,1,Good,17,n,yes,,npo
+340,ma,25,bio tech,year4,single,None,1,Poor,19,n,yes,,npn
+341,efr,21,bio tech,,,Burnout,,Good,16,n,no,,pn
+342,Female,21,bio tech,hea  2,m,Burnout,1,Good,29,n,,,
+343,male,21,nursing,year3,single,Depression,11,Poor,15,n,no,,
+344,male,16,therapy,year1,single,Burnout,1,Average,11,n,,,
+345,fe,16,tech,,single,Burnout,11,Poor,21,n,np,,
+346,ma;e,16,tech,year1,s,Depression,12,Good,22,n,non,,
+347,male,17,tech ,year1,s,None,0,Average,6,n,on,,
+348,fe,17,therapy,,s,Burnout,1,Average,28,n,no,,
+349,fefe,17,therapy,yfeer 3,s,None,0,Good,2,n ye,non,,
+350,mae,18,therapy,year2,s,None,1,Good,11,,non,,
+351,male,18,bio tech,year1,s,Burnout,0,Average,21,yes,non,,
+352,female,18,bio tech,hfea  4,s,Anxiety,2,Average,15,yes,non,,
+353,male,18,therapy,year1,s,Depression,0,Good,11, no,no,,
+354,female,18,therapy,yfear 4,s,Depression,1,Average,36,yes,no,,
+355,malwe,18,tech,year3,s,Anxiety,0,Average,9, mo,non,,
+356,female,20,tecg,gfeag 3,m,Depression,1,Good,40,uyes,nonn,,
+357,male,20,nursing,yrae3,s,None,,Good,27, ni,no,,
+358,mmale,20,nursing,year3,s,None,0,Poor,24,,blank,,
+359,female,20,tech,hfeah 4,s,Anxiety,12,Average,18,,blank,,
+360,male ,21,tech,year3,s,Depression,0,Good,40,yes,blank,,
+361,   male ,21,bio tech,year3,s,Burnout,2,Poor,7,no,blank,,
+362,male fema;le,21,therpay tech tech,year3,m,None,1,Average,7,yes,blank,,
+363,male ,21,therapy,year3,s,None,3,Average,11,no,blank,,
+364,   femame,21,tech,hfeah 3,m,Anxiety,0,Good,27,,blank,,
+365,male male ,23,nursing,yrae3,s,None,2,Poor,1,,blank,,
+366,male female ,23,nursing,year3,s,None,0,Poor,24,yes,blank,,
+367,female female ,30,tech,hfeah 3,s,Depression,12,Poor,29,no,blank,,
+368,male ,30,tech,year4,s,Anxiety,0,Good,22,yes,blank,,
+369,female,30,tecg,gfeag 2,s,Burnout,1,Good,15,yestes,blank,,
+370,male,30,tech,yare3,m,Burnout,0,Good,11,yes,blank,,
+371,male,25,terapy,year3,s,None,23,Average,24,yes,bb,,
+372,male,25,therapy,year3,s,None,,Good,13,yes,b,,
+373,female,25,nursing,gfeas 3,m,Depression,1,Good,40,yes,,,
+374,feamel,28,nursing,gfems 3,s,None,0,Average,40,no,b,,
+375,,28,tech,,m,None,2,Poor,26,non,bb,,
+376,,,therapy,,s,Anxiety,0,Good,14,,b,,
+377,,,boio,,m,None,3,Poor,27,,b,,
+378,male,,bio,year3,s,Burnout,,Good,33,,b,,
+379,,,therpay tech tech,,,None,2,Good,17,,b,,
+380,,,nursing,,,Burnout,0,Poor,16,,b,,
+381,,,nursing,,,None,1,Average,4,,b,,
+382,,,tech,,,Anxiety,1,Poor,30,,b,,
+383,,28,nursing,,,Burnout,0,Average,21,,b,,
+384,male,21,tech,year1,s,Anxiety,30,Poor,3,,b,,
+385,male ,21,nursing,year1,s,Burnout,3,Poor,17,,bb,,
+386,maale,23,thjerapy,year2,s,Anxiety,0,Average,6,,b,,
+387,male ,22,therapy,year2,s,Depression,3,Average,17,,b,,
+388,male female ,22,thech',year4,s,Depression,0,Poor,30,no,b,,
+389,female,22,thech',ch'feach' 8,s,Depression,3,Good,14,non,b,,
+390,feamle,21,thech','femc 2,s,Burnout,0,Poor,14,non,b,,
+391,femlae,22,thech','felc 3,s,Burnout,2,Average,8,non,b,,
+392,feamle,24,therpy nuring tech,hfemr 3,s,None,0,Good,21,,b,,
+393,f,24,bio tech,,s,Depression,1,Average,14,yes,bb,,
+394,m,24,bio ,year4,s,Anxiety,0,Poor,19,yes,b,,
+395,f,22,tech,,s,Anxiety,1,Average,12,yesyesyesyes,b,,
+396,m,22,nursing,year2,s,Anxiety,0,Good,22,yes,bb,,
+397,f,20,nursing,,s,Burnout,1,Average,16,yes,b,,
+398,m,,tech,year2,s,Burnout,1,Poor,15,tes,b,,
+399,f,22,nursing ,,s,Burnout,0,Good,34,,,,
+400,m,20,tech,,,None,20,Good,13,,,,
+401,fm,20,tecj ,,s,,1,Poor,15,,,,
+401,,,bio,,,,0,Average,,,,,
+400,,,,,,,1,Poor,,,,,
+1,,,,,,,,,,,,,
+3,,,,,,,,,,,,,
+4,,,,,,,,,,,,,
+5,,,,,,,,,,,,,
+388,male female ,22,thech',year4,s,Depression,0,Poor,30,no,b,,
+389,female,22,thech',ch'feach' 8,s,Depression,3,Good,14,non,b,,
+390,feamle,21,thech','femc 2,s,Burnout,0,Poor,14,non,b,,
+388,male female ,22,thech',year4,s,Depression,0,Poor,30,no,b,,
+389,female,22,thech',ch'feach' 8,s,Depression,3,Good,14,non,b,,
+390,feamle,21,thech','femc 2,s,Burnout,0,Poor,14,non,b,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,,,,,,,,,,,,
+,,28,,,,,,,,,,,
