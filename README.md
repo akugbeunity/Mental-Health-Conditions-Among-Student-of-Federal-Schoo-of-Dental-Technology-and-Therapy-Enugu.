@@ -3,10 +3,10 @@ This repository contains exploratory data analysis on Mental conditions of stude
 # PROJECT OVERVIEW 
 Mental health refers to the emotional, psychological and social well beign of an individual. Among student in higher institutions like FEDSDT&T, Enugu, mental health is crucial for academic success, professional development and overall personal growth. Federal School of Dental Technology and Therapy, Enugu trains professionals in branches of dentistry like dental technology, Threapy and other related health sciences. The demanding academic enviroment, clinical pratice and societal expectations can exert signifiant pressure on student.
 # PROJECT OBJECTIVE 
-a) identify common mental health challages faced by students. 
-b) identify patterns and risk factors associated with mental health challages using visual analysis.
-c) provide data drievn insight to support mental health awarness and intervention planning with FSDT&T.
-d) Improve early detection by highlighting highrisk factors like (student with poor sleep, academic pressure or student who don't participate in any activity).
+* Identify common mental health challages faced by students.
+* Identify patterns and risk factors associated with mental health challages using visual analysis.
+* Provide data drievn insight to support mental health awarness and intervention planning with FSDT&T.
+* Improve early detection by highlighting highrisk factors like (student with poor sleep, academic pressure or student who don't           participate in any activity).
 # TOOLS AND TECHNOLOGIES USED 
 Data source: Questioners fiiled by students in form of datasheet, 700 students where targeted but only 300+ students participated
 Tools used:  Excel(for initial data collection and exploration)
@@ -44,15 +44,16 @@ Age bracket Analysis: Adult student show high rate of burnout and anxiety than y
 The dashboard a detailed picture of mental health among student of FSDT&T. Burnout and anxiety are the most prevelant condtion, the data set shows that academic presure, work and school in-balance, lack of good quqlity sleep and lack of engagement are the contibutors of  student mental challenges 
 # RECOMMENDATIONS 
 Recommendattion should be viewed from the students and school perspertive
-a)  School authorities should develop and encourage student to participate in non academic/extra curicular activites by rewarding particpant. 
-b)  Redcing long lecture time /school hours for student to go home and relax or sleep thereby promoting sleeping habit.
-C)  Students should reduce screen time most especially at night for proper and healthy sleep.
-d)  School should reduce academic stress for carry over students by balancing course laod across semesters
-e)  Lecturers  should be avaibable during office hours
-f)  School should reward effort,creativity and participation not just grade
-g)  Students should plan their day/week activites by by drawing out personnel time table to avoid last minute pressure
-h)  School authority should give study free days before exam
-i)  School should offer flexiable academic shedules or support for student who work
-j)  Significant number of student do not know their mental health condtion this suggest that there is a need for the implention of mental health awaerness program and free counseling        services for students by the school and  students should take the opportuity to orgnaize peer support group among themseleves to talk about their feelings
+* School authorities should develop and encourage student to participate in non academic/extra curicular activites by rewarding
+  particpant. 
+* Redcing long lecture time /school hours for student to go home and relax or sleep thereby promoting sleeping habit.
+* Students should reduce screen time most especially at night for proper and healthy sleep.
+* School should reduce academic stress for carry over students by balancing course laod across semesters.
+* Lecturers  should be avaibable during office hours.
+* School should reward effort,creativity and participation not just grade.
+* Students should plan their day/week activites by by drawing out personnel time table to avoid last minute pressure.
+* School authority should give study free days before exam.
+* School should offer flexiable academic shedules or support for student who work.
+* Significant number of student do not know their mental health condtion this suggest that there is a need for the implention of mental    health awaerness program and free counseling services for students by the school and  students should take the opportuity to orgnaize    peer support group among themseleves to talk about their feelings.
 
  
